@@ -1,1 +1,1 @@
-# Kaggle-competition
+# Kaggle Computer Vision
