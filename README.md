@@ -19,3 +19,8 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/49896157/156169470-58b230fb-68b5-414f-9e87-0b6b31ff46ac.png">
 </p>
+
+## 데이콘 작물 병해 진단 inference
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49896157/157874024-1752e5e9-57a1-4f43-849c-67da78181c69.png">
+</p>
