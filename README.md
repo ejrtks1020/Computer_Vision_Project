@@ -30,6 +30,11 @@
 <img src="https://user-images.githubusercontent.com/49896157/158388764-a2dd9d99-ec23-456d-8a19-d15e6f803e3d.png">
 </p>
 
+## Kaggle COVID-19 PPE Inference
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49896157/158389783-314f59a1-abc7-4f7f-a6da-5b02ba4db53b.png">
+</p>
+
 ## Face Mask Detection inference
 <p align="center">
 <img src="https://user-images.githubusercontent.com/49896157/158389217-e8d4e142-fd24-4b7e-8132-1fb5545077d3.png">
