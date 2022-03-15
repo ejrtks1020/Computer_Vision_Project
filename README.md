@@ -24,3 +24,15 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/49896157/157874024-1752e5e9-57a1-4f43-849c-67da78181c69.png">
 </p>
+
+## Sartorius Cell Instance Segmentation inference
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49896157/158388764-a2dd9d99-ec23-456d-8a19-d15e6f803e3d.png">
+</p>
+
+## Face Mask Detection inference
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49896157/158389217-e8d4e142-fd24-4b7e-8132-1fb5545077d3.png">
+</p>
+
+
