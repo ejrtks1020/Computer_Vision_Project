@@ -5,6 +5,11 @@
 <img src="https://user-images.githubusercontent.com/49896157/156169460-58d20ee0-de15-44e2-8089-99dff9a3e9ca.png">
 </p>
 
+## Kaggle global wheat detector inferece
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49896157/159270297-69632217-23de-4f0f-8db7-ce790ff9b104.png">
+</p>
+
 ## 데이콘 병변 검출 모델 inference
 <p align="center">
 <img src="https://user-images.githubusercontent.com/49896157/156169464-c166db07-1119-4d2e-a6d1-d04e405ec687.png">
